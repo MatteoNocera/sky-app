@@ -13,7 +13,7 @@ export default {
   <body>
 
     <header>
-      <nav class="navbar navbar-light">
+      <nav class="navbar navbar-light shadow-bottom">
         <div class="container justify-content-end">
           <!-- <router-link class="navbar-brand bg-secondary" to="/">
             <img height="80" src="./assets/img/klipartz.com.png" alt="Fiocco di neve">
@@ -73,10 +73,10 @@ export default {
 header {
   background-image: url(./assets/img/winter.jpg);
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
   background-size: cover;
   background-color: aquamarine;
-  padding-bottom: 20rem;
+  padding-bottom: 30rem;
 }
 
 .bg_focus {
