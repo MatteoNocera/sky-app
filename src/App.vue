@@ -75,8 +75,8 @@ header {
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
-  background-color: aquamarine;
-  padding-bottom: 30rem;
+  background-color: #a4b2df;
+  padding-bottom: 25rem;
 }
 
 .bg_focus {

@@ -1,1 +1,20 @@
 @use "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+* {
+    font-family: 'Bree Serif', serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+.violet {
+    /* background-color: #925b85; */
+    background-color: #a4b2df;
+}
+
+.jumbo {
+    margin-top: -2rem;
+}
+
+.bg_card {
+    background-color: #6a7bb2;
+}
